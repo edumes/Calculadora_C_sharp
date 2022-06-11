@@ -1,0 +1,9 @@
+R:\win_forms\calculadora\calculadora\bin\Debug\calculadora.exe.config
+R:\win_forms\calculadora\calculadora\bin\Debug\calculadora.exe
+R:\win_forms\calculadora\calculadora\bin\Debug\calculadora.pdb
+R:\win_forms\calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+R:\win_forms\calculadora\calculadora\obj\Debug\calculadora.Form1.resources
+R:\win_forms\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+R:\win_forms\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.Cache
+R:\win_forms\calculadora\calculadora\obj\Debug\calculadora.exe
+R:\win_forms\calculadora\calculadora\obj\Debug\calculadora.pdb
